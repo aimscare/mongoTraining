@@ -82,13 +82,13 @@ rs.status()
 
 
 
-rs.add("sv203849.zitd.global.commerzbank.com:2002")
+rs.add("ip:2002")
 
-rs.add("sv203849.zitd.global.commerzbank.com:2003")
+rs.add("ip:2003")
 
-rs.remove("sv203849.zitd.global.commerzbank.com:2003")
+rs.remove("ip:2003")
 
-rs.addArb("sv203849.zitd.global.commerzbank.com:2003")
+rs.addArb("ip:2003")
 
 
 db.printSlaveReplicationInfo()
