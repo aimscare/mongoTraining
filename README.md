@@ -53,6 +53,8 @@ https://www.alibabacloud.com/help/doc-detail/52344.htm
 
 https://docs.mongodb.com/manual/reference/method/js-connection/
 
+https://sg.simplilearn.com/replication-and-sharding-mongodb-tutorial-video
+
 
 
 db
